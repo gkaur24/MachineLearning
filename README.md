@@ -1,4 +1,4 @@
-# MachineLearning
+# Machine Learning Assignment 2
 
 Tf-idf stands for “Term Frequency - Inverse Document Frequency”. It determines the importance of words in a set of documents. It is the product of Term Frequency and
 Inverse Document Frequency. Term Frequency is used to measure the frequency of words in a document. 
