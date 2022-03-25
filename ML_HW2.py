@@ -11,13 +11,7 @@ import pandas as pd
 
 #ds = pd.read_csv('assignment_2_dataset.csv')
 
-#tfIdfTransformer = TfidfTransformer(use_idf=True)
-#countVectorizer = CountVectorizer()
-#wordCount = countVectorizer.fit_transform(ds)
-#newTfIdf = tfIdfTransformer.fit_transform(wordCount)
-#df = pd.DataFrame(newTfIdf[0].T.todense(), index=countVectorizer.get_feature_names(), columns=["TF-IDF"])
-#df = df.sort_values('TF-IDF', ascending=False)
-#print (df.head(25))
+#
 
 import pandas as pd
 import sklearn
